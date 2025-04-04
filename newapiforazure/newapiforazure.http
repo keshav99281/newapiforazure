@@ -1,0 +1,6 @@
+@newapiforazure_HostAddress = http://localhost:5149
+
+GET {{newapiforazure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
